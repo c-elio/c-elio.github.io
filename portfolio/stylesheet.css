@@ -1,0 +1,35 @@
+body{
+    font-family: 'Gelasio', serif;
+    text-align:center;
+    padding-bottom: 100px;
+}
+#projectsList{
+display: flex;
+flex-wrap:wrap;
+align-items: center;
+justify-items: center;
+justify-content: center;
+}
+.project{
+/* width:25%; */
+width: 600px;
+height:600px;
+padding:10px;
+margin:2%;
+border: 2px solid  blue;
+}
+h3
+{
+font-size: x-large;
+}
+/*
+.gameImage{
+
+}
+*/
+/*
+I should make the images scale down a bit before putting the stuff on new lines.
+@media only screen and (min-width: 1450px) {
+
+}
+*/
