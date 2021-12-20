@@ -29,9 +29,8 @@ h2{
 
 }
 */
-/*
-I should make the images scale down a bit before putting the stuff on new lines.
-@media only screen and (min-width: 1450px) {
-
+@media only screen and (min-width: 1860px) {
+    .project{
+        width:540px;
+    }
 }
-*/
