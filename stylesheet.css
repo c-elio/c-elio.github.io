@@ -4,23 +4,25 @@ body{
     padding-bottom: 100px;
 }
 #projectsList{
-display: flex;
-flex-wrap:wrap;
-align-items: center;
-justify-items: center;
-justify-content: center;
+    display: flex;
+    flex-wrap:wrap;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
 }
 .project{
-/* width:25%; */
-width: 600px;
-height:625px;
-padding:10px;
-margin:2%;
-border: 2px solid  blue;
+    /* width:25%; */
+    width: 520px;
+    height:600px;
+    padding:10px;
+    margin:2%;
+    border: 2px solid  blue;
 }
-h3
-{
-font-size: x-large;
+h3{
+    font-size: x-large;
+}
+h2{
+    margin-bottom: 0px;
 }
 /*
 .gameImage{
